@@ -1,0 +1,6 @@
+C:\Dev\performancetests\performancetests\bin\Debug\performancetests.exe.config
+C:\Dev\performancetests\performancetests\bin\Debug\performancetests.exe
+C:\Dev\performancetests\performancetests\bin\Debug\performancetests.pdb
+C:\Dev\performancetests\performancetests\obj\Debug\performancetests.csprojResolveAssemblyReference.cache
+C:\Dev\performancetests\performancetests\obj\Debug\performancetests.exe
+C:\Dev\performancetests\performancetests\obj\Debug\performancetests.pdb
